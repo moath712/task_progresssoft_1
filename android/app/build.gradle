@@ -38,12 +38,9 @@ android {
 
     buildTypes {
         release {
-            // Enables code shrinking, obfuscation, and optimization for release builds
-            minifyEnabled true
-            // Enables resource shrinking, removing unused resources
-            shrinkResources true
-            // Use ProGuard to optimize and shrink code
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+           signingConfig signingConfigs.debug
+
+
         }
     }
 }
