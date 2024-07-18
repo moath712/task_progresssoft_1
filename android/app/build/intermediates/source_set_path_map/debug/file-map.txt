@@ -1,0 +1,15 @@
+com.example.task_progresssoft.app-core-1.6.0-0 C:\Users\moath\.gradle\caches\transforms-3\40e21c02141ebf8039e40f16c5690996\transformed\core-1.6.0\res
+com.example.task_progresssoft.app-jetified-annotation-experimental-1.1.0-1 C:\Users\moath\.gradle\caches\transforms-3\584446ffc637665e45ac76f277a8ab86\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.task_progresssoft.app-jetified-window-1.0.0-beta04-2 C:\Users\moath\.gradle\caches\transforms-3\5927c9a130b5011a1ca4c09ff6721ce9\transformed\jetified-window-1.0.0-beta04\res
+com.example.task_progresssoft.app-jetified-window-java-1.0.0-beta04-3 C:\Users\moath\.gradle\caches\transforms-3\5c79d15be7aaadd5cf61c4ed4ca3a52a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.task_progresssoft.app-jetified-play-services-basement-18.3.0-4 C:\Users\moath\.gradle\caches\transforms-3\751e43cbb7ef722ee44108fd5feac2e9\transformed\jetified-play-services-basement-18.3.0\res
+com.example.task_progresssoft.app-jetified-firebase-common-21.0.0-5 C:\Users\moath\.gradle\caches\transforms-3\a86b733e32fb4d43e02e659cb458322c\transformed\jetified-firebase-common-21.0.0\res
+com.example.task_progresssoft.app-packaged_res-6 C:\Users\moath\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.2.0\android\build\intermediates\packaged_res\debug
+com.example.task_progresssoft.app-pngs-7 C:\Users\moath\Desktop\task_progresssoft\android\app\build\generated\res\pngs\debug
+com.example.task_progresssoft.app-resValues-8 C:\Users\moath\Desktop\task_progresssoft\android\app\build\generated\res\resValues\debug
+com.example.task_progresssoft.app-rs-9 C:\Users\moath\Desktop\task_progresssoft\android\app\build\generated\res\rs\debug
+com.example.task_progresssoft.app-mergeDebugResources-10 C:\Users\moath\Desktop\task_progresssoft\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.task_progresssoft.app-mergeDebugResources-11 C:\Users\moath\Desktop\task_progresssoft\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.task_progresssoft.app-merged_res-12 C:\Users\moath\Desktop\task_progresssoft\android\app\build\intermediates\merged_res\debug
+com.example.task_progresssoft.app-debug-13 C:\Users\moath\Desktop\task_progresssoft\android\app\src\debug\res
+com.example.task_progresssoft.app-main-14 C:\Users\moath\Desktop\task_progresssoft\android\app\src\main\res

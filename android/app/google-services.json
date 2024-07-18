@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614341341464",
+    "firebase_url": "https://progresssofttask-f4bfe-default-rtdb.firebaseio.com",
+    "project_id": "progresssofttask-f4bfe",
+    "storage_bucket": "progresssofttask-f4bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614341341464:android:8d268b23b8f928652b6e6d",
+        "android_client_info": {
+          "package_name": "com.example.task_progresssoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLa8v7Iy50DEHNgkg6ZiVwqcKEQ1vRCrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
